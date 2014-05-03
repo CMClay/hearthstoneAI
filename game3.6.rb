@@ -5,7 +5,7 @@ Many AI bugs fixed!!!! Previous version have big AI problems
 Refactored Game class
 
 Trying to implement taunt
-
+testing git changes
 =end
 
 class Player

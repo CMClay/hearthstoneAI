@@ -1,5 +1,6 @@
 load 'game3.6.rb'
 load 'cards.rb'
+require './deck'
 
 #module DeckGenerator
 

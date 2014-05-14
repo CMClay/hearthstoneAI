@@ -1,5 +1,6 @@
 load 'game3.6.rb'
 load 'deck_generator.rb'
+require './game'
 
 #Start of executable Code---------------------------------------------------------------------------------------------
 
